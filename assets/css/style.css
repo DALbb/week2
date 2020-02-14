@@ -1,1 +1,319 @@
-　
+
+.box1 {
+  background-image: url(../images/girisya1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 45vw;
+}
+.box1 p {
+  font-size: 3vw;
+  color: white;
+  padding-left: 10vw;
+  padding-top: 10vw;
+}
+.place {
+
+  position: relative;
+  left:45vw;
+ display: inline-block;
+ margin-top: 7vw;
+ margin-bottom: 5vw;
+}
+
+/*以下で線を表示*/
+.place h1:before {
+ content: '';
+ position: absolute;
+ left: 50%;
+ bottom: -15px;/*線の上下位置*/
+ display: inline-block;
+ width: 30vw;/*線の長さ*/
+ height: 5px;/*線の太さ*/
+ -webkit-transform: translateX(-50%);
+ transform: translateX(-50%);/*位置調整*/
+ background-color: black;/*線の色*/
+ border-radius: 2px;/*線の丸み*/
+}
+
+.box2 {
+  background-image: url(../images/grisyabasyo1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vw;
+  margin-top: 5vw;
+}
+.box2 h1 {
+  font-size: 3vw;
+  padding-left: 5vw;
+}
+.box2 p {
+  font-size: 1.5vw;
+  text-align: center;
+  padding-top: 30vw;
+}
+.box3 {
+
+  position: relative;
+  left:42vw;
+ display: inline-block;
+ margin-top: 5vw;
+ margin-bottom: 10vw;
+}
+
+/*以下で線を表示*/
+.box3 h1:before {
+ content: '';
+ position: absolute;
+ left: 50%;
+ bottom: -15px;/*線の上下位置*/
+ display: inline-block;
+ width: 30vw;/*線の長さ*/
+ height: 5px;/*線の太さ*/
+ -webkit-transform: translateX(-50%);
+ transform: translateX(-50%);/*位置調整*/
+ background-color: black;/*線の色*/
+ border-radius: 2px;/*線の丸み*/
+}
+
+.box4 {
+  background-image: url(../images/hatimitu.jpeg);
+  background-repeat: no-repeat;
+  background-size: 30vw;
+  height: 20vw;
+  margin-left: 10vw;
+}
+.box4 p {
+ font-size: 2vw;
+ margin-left: 45vw;
+
+}
+.disk1  {
+  padding-top: 7vw;
+}
+.box5 {
+  margin-bottom: 8vw;
+}
+.text1 {
+  font-size: 2vw;
+  margin-left: 8vw;
+  position: relative;
+  top: 15vw;
+}
+.img-right1 {
+  width: 30vw;
+  margin-left: 55vw;
+}
+
+
+/*.box5 {
+  background-image: url(../images/olive.jpg);
+  background-repeat: no-repeat;
+  background-size: 30vw;
+  height: 30vw;
+  margin-left: 10vw;
+}
+.box5 p {
+ font-size: 2vw;
+ margin-left: 45vw;
+
+}
+.disk2  {
+  padding-top: 7vw;
+}*/
+.box6 {
+  background-image: url(../images/komono.jpeg);
+  background-repeat: no-repeat;
+  background-size: 30vw;
+  height: 25vw;
+  margin-left: 10vw;
+}
+.box6 p {
+ font-size: 2vw;
+ margin-left: 45vw;
+
+}
+.disk3  {
+  padding-top: 7vw;
+}
+.box7 {
+
+  position: relative;
+  left:42vw;
+ display: inline-block;
+ margin-top: 5vw;
+ margin-bottom: 10vw;
+}
+
+/*以下で線を表示*/
+.box7 h1:before {
+ content: '';
+ position: absolute;
+ left: 50%;
+ bottom: -15px;/*線の上下位置*/
+ display: inline-block;
+ width: 30vw;/*線の長さ*/
+ height: 5px;/*線の太さ*/
+ -webkit-transform: translateX(-50%);
+ transform: translateX(-50%);/*位置調整*/
+ background-color: black;/*線の色*/
+ border-radius: 2px;/*線の丸み*/
+}
+.box8 {
+  background-image: url(../images/musaka.jpeg);
+  background-repeat: no-repeat;
+  background-size: 30vw;
+  height: 20vw;
+  margin-left: 10vw;
+}
+.box8 h1 {
+  margin-left: 52vw;
+  font-size: 3vw;
+  margin-bottom: 3vw;
+}
+.box8 p {
+ font-size: 1.5vw;
+ margin-left: 40vw;
+
+}
+.disk4  {
+  padding-top: 2vw;
+}
+.box9 h1 {
+  font-size: 3vw;
+}
+.text3 {
+  margin-left: 20vw;
+  position: relative;
+  top: 12vw;
+
+}
+.text4 {
+  font-size: 1.5vw;
+  margin-left: 8vw;
+  position: relative;
+  top: 15vw;
+}
+.img-right {
+  width: 30vw;
+  margin-left: 60vw;
+}
+
+.box10 {
+  background-image: url(../images/saziki.jpeg);
+  background-repeat: no-repeat;
+  background-size: 27vw;
+  height: 30vw;
+  margin-left: 10vw;
+  margin-top: 10vw;
+}
+.box10 h1 {
+  margin-left: 55vw;
+  font-size: 3vw;
+  margin-bottom: 3vw;
+}
+.box10 p {
+ font-size: 1.5vw;
+ margin-left: 40vw;
+
+}
+.disk5  {
+  padding-top: 2vw;
+}
+
+.box11 {
+
+  position: relative;
+  left:42vw;
+ display: inline-block;
+ margin-top: 5vw;
+ margin-bottom: 10vw;
+}
+
+/*以下で線を表示*/
+.box11 h1:before {
+ content: '';
+ position: absolute;
+ left: 50%;
+ bottom: -15px;/*線の上下位置*/
+ display: inline-block;
+ width: 30vw;/*線の長さ*/
+ height: 5px;/*線の太さ*/
+ -webkit-transform: translateX(-50%);
+ transform: translateX(-50%);/*位置調整*/
+ background-color: black;/*線の色*/
+ border-radius: 2px;/*線の丸み*/
+}
+.box12 {
+  background-image: url(../images/parutenon.jpeg);
+  background-repeat: no-repeat;
+  background-size: 30vw;
+  height: 20vw;
+  margin-left: 10vw;
+}
+.box12 h1 {
+  margin-left: 47vw;
+  font-size: 2vw;
+  margin-bottom: 3vw;
+}
+.box12 p {
+ font-size: 1.5vw;
+ margin-left: 35vw;
+
+}
+.disk6  {
+  padding-top: 2vw;
+}
+.box13 h1 {
+  font-size: 2vw;
+}
+.text5 {
+  margin-left: 20vw;
+  position: relative;
+  top: 12vw;
+
+}
+.text6 {
+  font-size: 1.5vw;
+  margin-left: 8vw;
+  position: relative;
+  top: 15vw;
+}
+.img-right2 {
+  width: 30vw;
+  margin-left: 60vw;
+}
+
+.box14 {
+  background-image: url(../images/santorini.jpeg);
+  background-repeat: no-repeat;
+  background-size: 27vw;
+  height: 30vw;
+  margin-left: 10vw;
+  margin-top: 10vw;
+}
+.box14 h1 {
+  margin-left: 50vw;
+  font-size: 2vw;
+  margin-bottom: 3vw;
+}
+.box14 p {
+ font-size: 1.5vw;
+ margin-left: 40vw;
+
+}
+.disk7  {
+  padding-top: 2vw;
+}
+
+.box15 {
+  background-image: url(../images/grisyamati2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 45vw;
+}
+.box15 p {
+  font-size: 2vw;
+  color: white;
+  padding-left: 10vw;
+  padding-top: 10vw;
+}
